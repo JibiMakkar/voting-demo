@@ -10,7 +10,7 @@ import signal
 import sys
 
 
-optionA = "Futbol"
+optionA = "ChanJibi"
 optionB = "Soccer"
 name = optionA + " VS " + optionB
 
